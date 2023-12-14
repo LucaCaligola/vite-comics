@@ -2,7 +2,7 @@
     <main>
         <div class="main-container">
             
-
+        <p>Content goes here</p>
         </div>
 
 
@@ -24,6 +24,14 @@ main {
     background-color: black;
 }
 
+.main-container {
+    height: 100%;
+    width: 70%;
+    color: white;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
 
 
     
