@@ -13,10 +13,10 @@ export default {
 </script>
 <style lang="scss" scoped>
 
-.big {
+footer {
     height: 300px;
     width: 100%;
-    background-color: #222222;
+    background-image: url("../assets/img/footer-bg.jpg");
 }
 
 
